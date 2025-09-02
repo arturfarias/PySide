@@ -8,8 +8,8 @@ class Windows(QMainWindow):
 
         self.setWindowTitle('Title text') 
 
-        # x: distância da borda esquerda
-        # y: distância da borda superior
+        # x: Distância da borda esquerda
+        # y: Distância da borda superior
         self.setGeometry(100, 100, 600, 400)  # x, y, largura, altura
 
 
